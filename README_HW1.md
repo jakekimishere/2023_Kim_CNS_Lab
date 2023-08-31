@@ -22,7 +22,7 @@
 ### Step 2: reloading the VM with 'vagrant reload'
 ### Step 3: access 'http://127.0.0.1:4567' to the web page in your browser.
 ### This shows Vagrant's ability to bridge the guest and host machine.
-![Screenshot for Configuring the Network.](/CNS_HW1_2.png)
+![Screenshot for Configuring the Network.](/CNS_HW1_6.png)
 # 4. Vagrant provisioner: Shell Provisioner
 ## Let you run and manage scripts inside a virtual guest machine created using Vagrant. Two main methods: You write down the instructions directly 
 ## in your Vagrant setup file with "inline" scripting, or you give it a file with all the instructions. 
