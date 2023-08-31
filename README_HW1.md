@@ -29,3 +29,5 @@
 ## For POSIX-like operating systems, the shell provisioner uses SSH to execute scripts.
 ## While Windows guest machines are configured with WinRM, use PowerShell and Batch scripts over WinRM.
 ## Overall, Shell Provisioner can be used for both simple and elaborate provisioning by letting you talk it through scripts.
+#5. Screenshot pictured below:
+![Screenshot for Problem 5.](/CNS_HW1_3.png).
