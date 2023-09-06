@@ -32,7 +32,14 @@
 ### Container focus: Good choice for organizations adopting container technologies with cloud-native applications.
 
 # 4. Completed below:
-## 
+## Cowrie
+### Cowrie is considered an open-source project hosted on platflorms like GitHub. It benefits from contributors from various backgrounds to improve and extends its functionality.
+### Options available using Cowrie are: Port mapping, Environment variables, and Volume mapping.
+### Port mapping: Map ports between the contaier and the host system.
+### Environment variables: Cowrie in Docker can be configured using environment variables.
+### Volume mapping: Allows you to customize the configuration or log directories. 
+### Some of Cowrie's unique features are: 
+
 #5. Screenshot pictured below:
 
 ## Needed to add a new line in the Vagrantfile with the source location and the destination location. After, you would have to go into the ssh and cat the file from the destination which would copy the files from the source.
