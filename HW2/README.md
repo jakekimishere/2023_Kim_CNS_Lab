@@ -20,15 +20,19 @@
 ### Garbage collection: Automatically manages memory making Go more resilient against crashes and memory issues.
 ### Open source: Bscked my major companies like Google and encourages collaboration within the Go community.
 
-##  Configure the Network Tutorial
-### 
+##  Photon OS
+### The organization behind Photon OS is VMWware. VMware is within the virtualization and cloud computing industry. They created it as a minimal Linux container host optimized for running containerized applications in virtualized environments. 
+### Some options available when running Photon OS are: Healthchecks, Networking, and Detach mode.
+### Healthchecks: Monitor the container's health and restart it if it becomes unhealthy.
+### Networking: Controls how containers communicate with each other and the outside world.
+### Detach mode: Can run a container in the background for long running processes.
+### Photon OS is unique because of: Minimalistic design, Quick boot time, and Container focus.
+### Minimalistic design: Reduces the attack surface and makes it more secure and lightweight.
+### Quick boot time: Valuable for rapid container deployment and scaling.
+### Container focus: Good choice for organizations adopting container technologies with cloud-native applications.
 
-# 4. Vagrant provisioner: Shell Provisioner
-## Let you run and manage scripts inside a virtual guest machine created using Vagrant. Two main methods: You write down the instructions directly 
-## in your Vagrant setup file with "inline" scripting, or you give it a file with all the instructions. 
-## For POSIX-like operating systems, the shell provisioner uses SSH to execute scripts.
-## While Windows guest machines are configured with WinRM, use PowerShell and Batch scripts over WinRM.
-## Overall, Shell Provisioner can be used for both simple and elaborate provisioning by letting you talk it through scripts.
+# 4. Completed below:
+## 
 #5. Screenshot pictured below:
 
 ## Needed to add a new line in the Vagrantfile with the source location and the destination location. After, you would have to go into the ssh and cat the file from the destination which would copy the files from the source.
