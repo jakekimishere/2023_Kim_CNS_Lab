@@ -38,7 +38,10 @@
 ### Port mapping: Map ports between the contaier and the host system.
 ### Environment variables: Cowrie in Docker can be configured using environment variables.
 ### Volume mapping: Allows you to customize the configuration or log directories. 
-### Some of Cowrie's unique features are: 
+### Some of Cowrie's unique features are: A medium interaction honeypot, SSH and telnet support, and Attack logging.
+### A medium interaction honeypot: Emulates enough of a real system to be convincing to potential attackers while not exposing actual vulnerable systems.
+### SSH and telnet support: Versatile for capturing attacks on both of these commonly used remote access protocols.
+### Attack logging: Records not only login attempts but also the commands and actions taken by attackers once they gain access.
 
 #5. Screenshot pictured below:
 
