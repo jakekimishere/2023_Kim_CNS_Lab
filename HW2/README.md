@@ -32,16 +32,16 @@
 ### Container focus: Good choice for organizations adopting container technologies with cloud-native applications.
 
 # 4. Completed below:
-## Cowrie
-### Cowrie is considered an open-source project hosted on platflorms like GitHub. It benefits from contributors from various backgrounds to improve and extends its functionality.
-### Options available using Cowrie are: Port mapping, Environment variables, and Volume mapping.
+## Damn Vulnerable Web Application (DVWA)
+### DVWA is an open-source project does not have a specific organization or company responsible for its development.
+### Options available using DVWA are: Port mapping, Customizing database credentials, and Enabling telnet support.
 ### Port mapping: Map ports between the contaier and the host system.
-### Environment variables: Cowrie in Docker can be configured using environment variables.
-### Volume mapping: Allows you to customize the configuration or log directories. 
-### Some of Cowrie's unique features are: A medium interaction honeypot, SSH and telnet support, and Attack logging.
-### A medium interaction honeypot: Emulates enough of a real system to be convincing to potential attackers while not exposing actual vulnerable systems.
-### SSH and telnet support: Versatile for capturing attacks on both of these commonly used remote access protocols.
-### Attack logging: Records not only login attempts but also the commands and actions taken by attackers once they gain access.
+### Customizing database credentials: You can customize the database configuration by setting environment variables such as DB_USER, DB_PASSWORD, and DB_NAME to use your own credentials.
+### Enabling telnet support: Allows you to configure various settings through environment variables.
+### Some of DVWA's unique features are: Intentional vulnerabilities, Legal and controlled environment, and Graduated difficulty settings.
+### Intentional vulnerabilities: Intentionally designed with a wide range of web vulnerabilities, both documented and undocumented.
+### Legal and controlled environment: An ideal tool for educational institutions, cybersecurity professionals, and students.
+### Graduated difficulty settings: Allows users to start with easier challenges and progressively work their way up to more complex security scenarios.
 
 #5. Screenshot pictured below:
 
