@@ -44,6 +44,6 @@
 ### Graduated difficulty settings: Allows users to start with easier challenges and progressively work their way up to more complex security scenarios.
 
 #5. Screenshot pictured below:
-
-## Needed to add a new line in the Vagrantfile with the source location and the destination location. After, you would have to go into the ssh and cat the file from the destination which would copy the files from the source.
+![Screenshot for Problem 5.](/HW2b.png)
+## Screenshot of the output of dockps on the VM to display your updated running configuration.
 
