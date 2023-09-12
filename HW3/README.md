@@ -26,7 +26,7 @@
 ## CAT I Findings:
 ### There were 21 automated checks related to CAT I issues and there were 5 manual checks associated with CAT I findings. 
 ## These findings indicate that the system has a substantial number of controls that failed or were not checked, resulting in a low overall compliance score of 34.38%. Furthermore, the checks related to CAT I issues require attention to improve the system's security posture.
-![Screenshot for unzip.](HW3/Screenshots/HW3dunzip.png)
+![Screenshot for unzip.](HW3/Screenshots/HW3g.png)
 
 #6. Screenshot pictured below:
 
