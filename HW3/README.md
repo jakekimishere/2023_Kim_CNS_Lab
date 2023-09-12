@@ -17,7 +17,18 @@
 ![Screenshot for unzip.](HW3/Screenshots/HW3dunzip.png)
 ## By manually downloading and installing the 'unzip' RPM package compatible with RHEL 7, we were able to overcome the issues with unzipping during the SCC tool installation process.
 
-#5. Screenshot pictured below:
+# 5. Completed below:
+## Controls Passed vs. Failed:
+### Controls Passed: 55
+### Controls Failed: 105
+### Controls Not Checked: 84
+### Total Controls Assessed: 244
+## CAT I Findings:
+### There were 21 automated checks related to CAT I issues and there were 5 manual checks associated with CAT I findings. 
+## These findings indicate that the system has a substantial number of controls that failed or were not checked, resulting in a low overall compliance score of 34.38%. Furthermore, the checks related to CAT I issues require attention to improve the system's security posture.
+![Screenshot for unzip.](HW3/Screenshots/HW3dunzip.png)
+
+#6. Screenshot pictured below:
 
 ## Screenshot of the output of dockps on the VM to display your updated running configuration.
 
