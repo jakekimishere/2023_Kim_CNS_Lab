@@ -14,6 +14,9 @@
 # 4. Completed below:
 ## During the installation of the SCC tool on our RHEL 7 system, we encountered an issue with unzipping the downloaded archive file. To resolve this issue, we manually downloaded and installed the 'unzip' RPM package compatible with RHEL 7. We visited the CentOS repository website to find the 'unzip' package.
 ![Screenshot for unzip.](HW3/Screenshots/HW3cunzip.png)
+![Screenshot for unzip.](HW3/Screenshots/HW3dunzip.png)
+## By manually downloading and installing the 'unzip' RPM package compatible with RHEL 7, we were able to overcome the issues with unzipping during the SCC tool installation process.
+
 #5. Screenshot pictured below:
 
 ## Screenshot of the output of dockps on the VM to display your updated running configuration.
