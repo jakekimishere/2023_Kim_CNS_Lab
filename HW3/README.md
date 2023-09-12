@@ -30,5 +30,5 @@
 
 #6. Screenshot pictured below:
 ![Command line version of the SCC tool.](HW3/Screenshots/HW3i.png)
-## Screenshot of the 
+## Screenshot of the command line version of the SCC tool running on machine.
 
