@@ -12,9 +12,9 @@
 ## We Selected Red Hat Enterprise Linux (RHEL) 7 as our Linux distribution. We obtained the RHEL 7 image from the Vagrant Cloud website using the "generic/rhel7" box. We created our Vagrantfile to configure and provision our RHEL 7 VM.
 
 # 4. Completed below:
-## During the installation of the SCC tool on our RHEL 7 system, we encountered an issue with unzipping the downloaded archive file. To resolve this issue, we manually downloaded and installed the 'unzip' RPM package compatible with RHEL 7. We visited the CentOS repository website to find the 'unzip' package
-
+## During the installation of the SCC tool on our RHEL 7 system, we encountered an issue with unzipping the downloaded archive file. To resolve this issue, we manually downloaded and installed the 'unzip' RPM package compatible with RHEL 7. We visited the CentOS repository website to find the 'unzip' package.
+![Screenshot for unzip.](HW3/Screenshots/HW3cunzip.png)
 #5. Screenshot pictured below:
-![Screenshot for Problem 5.](HW2/Screenshots/HW2b.png)
+
 ## Screenshot of the output of dockps on the VM to display your updated running configuration.
 
