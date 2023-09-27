@@ -16,8 +16,8 @@ We
 # 4. Completed below:
 
 During
-![Screenshot for unzip.](Screenshots/HW3dunzip.png)
-
+![Screenshot #1](Screenshots/HW4_Section2.0.png)
+![Screenshot #2](Screenshots/HW4_Section2.1.png)
 
 # 5. Completed below:
 
