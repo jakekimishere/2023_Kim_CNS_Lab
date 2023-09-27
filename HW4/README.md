@@ -6,8 +6,10 @@
 
 
 # 1. Completed  
-
+![Screenshot #1](Screenshots/HW4_Section2.0.png)
+![Screenshot #2](Screenshots/HW4_Section2.1.png)
 # 2. Completed 
+![Screenshot #1](Screenshots/HW4_Section3.0.png)
 
 # 3. Completed below:
 
@@ -16,8 +18,7 @@ We
 # 4. Completed below:
 
 During
-![Screenshot #1](Screenshots/HW4_Section2.0.png)
-![Screenshot #2](Screenshots/HW4_Section2.1.png)
+
 
 # 5. Completed below:
 
