@@ -44,6 +44,6 @@
 ### Graduated difficulty settings: Allows users to start with easier challenges and progressively work their way up to more complex security scenarios.
 
 #5. Screenshot pictured below:
-![Screenshot for Problem 5.](HW2/Screenshots/HW2b.png)
+![Screenshot for Problem 5.](Screenshots/HW2b.png)
 ## Screenshot of the output of dockps on the VM to display your updated running configuration.
 
