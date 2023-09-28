@@ -5,22 +5,22 @@
 - Date: 28 September 2023
 
 
-# 1. Completed  
+# Task information from section #2  
 ![Screenshot #1](Screenshots/HW4_Section2.0.png)
 ![Screenshot #2](Screenshots/HW4_Section2.1.png)
-# 2. Completed 
+# Task information from section #3 
 ![Screenshot #1](Screenshots/HW4_Section3.0.png)
 
-# 3. Completed below:
+# Task information from section #4.1
 
 We 
 
-# 4. Completed below:
+# Task information from section #4.2
 
 During
 
 
-# 5. Completed below:
+# Task information from section #4.3
 
 Total Controls Assessed: 244
 
