@@ -23,9 +23,9 @@ I created a PowerShell script named "KimScript.ps1" that sets the location to De
 
 # Task information from section #4.3
 We downloaded the "BadBlood" project from a GitHub repository to our Active Directory Domain Controller. We then executed the "invoke-badblood.ps1" script. We were warned multiple times whether or not we wanted to proceed and after a bit of waiting they were able to create users. We were able to see changes within our Active Directory.
-![Screenshot #6](HW4/Screenshots/4.3.01.png)
-![Screenshot #7](HW4/Screenshots/4.3.02.png)
-![Screenshot #8](HW4/Screenshots/4.3.03.png)
+![Screenshot #6](Screenshots/4.3.01.png)
+![Screenshot #7](Screenshots/4.3.02.png)
+![Screenshot #8](Screenshots/4.3.03.png)
 ![Screenshot #9](Screenshots/4.3.04.png)
 
 
