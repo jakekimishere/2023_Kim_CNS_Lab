@@ -6,17 +6,12 @@
 
 # Task information from section #2  
 ![Screenshot #9](Screenshots/Redhat10.2.6.png)
-
 In the screenshot above, root runs the w command to display information about currently logged-in users on the serverb machine. The output shows that the 'root' user is logged into the serverb machine.
-
 ![Screenshot #9](Screenshots/Redhat10.2.12.png)
-
 In the screenshot above, the command logs into serverb remotely runs the 'hostname' command, and outputs serverb.lab.example.com without opening a shell session on serverb. 
 ![Screenshot #9](Screenshots/Redhat10.4.4.png)
-
 This shows how we shared RSA SSH keys using ssh-copy-id.
 ![Screenshot #9](Screenshots/Redhat10.4.9.png)
-
 The screenshot above shows the process of sharing a second SSH key to the remote machine.
 
 # Task information from section #3 
