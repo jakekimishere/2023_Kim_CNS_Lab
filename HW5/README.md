@@ -5,6 +5,7 @@
 - Date: 05 October 2023
 
 # Task information from section #2  
+![Screenshot #9](Screenshots/Redhat10.2.6.png)
 
 
 # Task information from section #3 
