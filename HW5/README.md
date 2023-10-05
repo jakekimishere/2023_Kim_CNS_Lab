@@ -6,7 +6,9 @@
 
 # Task information from section #2  
 ![Screenshot #9](Screenshots/Redhat10.2.6.png)
-
+![Screenshot #9](Screenshots/Redhat10.2.12.png)
+![Screenshot #9](Screenshots/Redhat10.4.4.png)
+![Screenshot #9](Screenshots/Redhat10.4.9.png)
 
 # Task information from section #3 
 
