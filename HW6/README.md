@@ -12,7 +12,7 @@ In the Splunk training course, Intro to Splunk, I gained a foundational understa
 I decided to choose Event ID 4624 which indicates a successful logon event. This means that the event is generated every time a user successfully logs into a computer, be it locally or through a network connection. Some of the information the logon event provides would be the user account, type of logon (interactive or network), and the source of the logon (local computer or a remote device). I choose to blacklist Event ID 4624 to reduce the volume of log data because it is generated frequently and doesn't really signify a security threat by itself. This decision would allow people to concentrate on events that are more likely to indicate potential security incidents. 
 
 # Screenshot of input.conf in the proper file system location
-![screenshot](ipconfigLocation.png)
+![screenshot](HW6.png)
 
 
 
