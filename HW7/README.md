@@ -10,11 +10,13 @@ Gitea is an open-source platform for hosting Git repositories. The exploit uses 
 In terms of using Git hooks, an attacker can execute their own malicious code on a server hosting a Git repository. If an attacker gains control over these hooks, they can end up compromising the entire system's security by running harmful programs remotely. 
 
 
-# Instructor Approval
 
 
 # CWE/CVEs
-![screenshot](RCE_Diagram.png)
+CVE: CVE-2020-14144
+CWE Category: CWE-732: Incorrect Permission Assignment for Critical Resource
+CVE-2020-14144 describes a vulnerability in Gitea. The flaw allowed users with improper permissions, specifically users, to create Git hooks. While these hooks execute custom scripts after specific Git events, insecure permission handling enabled attackers to create malicious hooks, triggering RCE. Exploiting this vulnerability involves setting a post-receive Git hook with a payload through the Gitea web interface. Having proper permission assignment is crucial for safeguarding against unauthorized execution of malicious code through Git hooks.
 
+# Instructor Approval
 
 
