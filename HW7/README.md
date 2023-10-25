@@ -18,5 +18,5 @@ CWE Category: CWE-732: Incorrect Permission Assignment for Critical Resource
 CVE-2020-14144 describes a vulnerability in Gitea. The flaw allowed users with improper permissions, specifically users, to create Git hooks. While these hooks execute custom scripts after specific Git events, insecure permission handling enabled attackers to create malicious hooks, triggering RCE. Exploiting this vulnerability involves setting a post-receive Git hook with a payload through the Gitea web interface. Having proper permission assignment is crucial for safeguarding against unauthorized execution of malicious code through Git hooks.
 
 # Instructor Approval
-
+This exploit was granted at 0830 on 24OCT23 by LT Quarry.
 
