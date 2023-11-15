@@ -11,8 +11,10 @@ I chose to use Angry IP Scanner, a lightweight and user-friendly network scannin
 Step 1: Launch Angry IP Scanner:
 Open Angry IP Scanner by typing 'ipscan' in the terminal.
 (Screenshot)
+
 Step 2: Configure Scanning Parameters
 Specify the target IP range in the "IP Range" field.
+
 Step 3: Start the Scan
 Step 4: View Scan Results
 The scan successfully identified live hosts on the network providing valuable information about active devices. 
