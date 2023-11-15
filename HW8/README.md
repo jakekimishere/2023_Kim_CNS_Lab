@@ -5,7 +5,8 @@
 - Date: 16 November 2023
 
 # Research a Security Tool
-
+I chose to use Angry IP Scanner, a lightweight and user-friendly network scanning tool built for quick and efficient host discovery on a network. Angry IP Scanner provides a straightforward graphical interface, making it accessible. The tool uses Internet Control Message Protocol (ICMP) and Transmission Control Protocol (TCP) to discover live hosts, making it effective for identifying active devices on a network. Angry IP Scanner allows users to customize scanning parameters like IP range and port specifications, facilitating targeted scans based on specific requirements. Angry IP Scanner can be acquired from its official website and is available on GitHub. By leveraging Angry IP Scanner, users can efficiently identify live hosts on a network, aiding in security assessments. 
+(Screenshot of the tool running on my machine)
 # Demonstrate Use of the Chosen Tool
 
 
