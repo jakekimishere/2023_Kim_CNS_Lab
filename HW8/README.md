@@ -20,4 +20,4 @@ Step 4: View Scan Results
 The scan successfully identified live hosts on the network providing valuable information about active devices. 
 
 
-![screenshot](RCE_Diagram.png)
+![screenshot](Angry1.png)
